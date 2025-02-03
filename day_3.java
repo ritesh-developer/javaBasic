@@ -1,4 +1,4 @@
-public class day_three {
+public class day_3 {
 
     public static void main(String[] args) {
         System.out.println();
@@ -11,7 +11,8 @@ public class day_three {
 
          here is the main is a method , the main method is the entry point of the program
 
-        PUBLIC == it is the
+        PUBLIC == it is the access modifier indicaing that the method can be accesed from the out side of the class .
+
 
 
         *
