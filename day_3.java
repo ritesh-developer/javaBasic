@@ -12,7 +12,7 @@ public class day_3 {
          here is the main is a method , the main method is the entry point of the program
 
         PUBLIC == it is the access modifier indicaing that the method can be accesed from the out side of the class .
-
+        STATIC = it help to know the the method is belong to the class rather then an instance of the class
 
 
         *
