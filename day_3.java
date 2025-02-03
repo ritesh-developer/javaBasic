@@ -17,7 +17,7 @@ public class day_3 {
                   main :The name of the method
 
         String[] args: The method accept an array of the string as parameter . This is where command line arguments can be passed to your program .
-        ki li
+        ki lijd fdskf
 
 
         *
