@@ -13,10 +13,15 @@ public class day_4_primitive_datatype {
            * int
            * long
 
+             here the java use the int datatype for the using the num valur in the java
+
 
      //decimal number
-        * float         // se store karte hai //we store the decimal value in the float
-        * double        // we use sometime this double for the store the decimal value in the java
+        * float         // use for more very precise //we store the decimal value in the float // use for small num //
+        * double        // we use sometime this double for the store the decimal value in the java //use for large num //
+
+            the java use decimal value by default the double we make sure tell the
+            complier to that decimal value you provide is the float value
 
      // characters
         * char          // we use the char for store the character value in the java
