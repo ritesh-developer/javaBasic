@@ -1,5 +1,5 @@
 public class day_4_primitive_datatype {
-    public static void main(string[] args) {
+    public static void main(String[] args) {
 
 
         System.out.println(Byte.MIN_VALUE);
@@ -15,7 +15,7 @@ public class day_4_primitive_datatype {
 
 
      //decimal number
-        * float         // se store karte hai //we store the decimal value in the float
+        * float         // se store possible hai //we store the decimal value in the float
         * double        // we use sometime this double for the store the decimal value in the java
 
      // characters
