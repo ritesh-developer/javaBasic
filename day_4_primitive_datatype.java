@@ -20,7 +20,7 @@ public class day_4_primitive_datatype {
      // booleans
 
         * boolean       // we use the boolean for  store the true or false data in the java ;
-
+  k
 
 
 
