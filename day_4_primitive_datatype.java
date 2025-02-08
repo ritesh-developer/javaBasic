@@ -1,5 +1,9 @@
 public class day_4_primitive_datatype {
     public static void main(string[] args) {
+
+
+        System.out.println(Byte.MIN_VALUE);
+        System.out.println(Byte.MAX_VALUE);
         /* what is primitive data type in the java
 
 
