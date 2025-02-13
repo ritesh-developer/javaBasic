@@ -2,7 +2,8 @@ public class day_4_primitive_datatype {
     public static void main(String[] args) {
 
 
-        System.out.println(Short.MIN_VALUE);
+        System.out.println(Double.MIN_VALUE);
+
         System.out.println(Short.MAX_VALUE);
         /* what is primitive data type in the java
 
